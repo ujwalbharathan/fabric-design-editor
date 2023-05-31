@@ -1,0 +1,18 @@
+.canvas-container {
+  width: 100% !important;
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+  .upper-canvas {
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%);
+    // background-color: white;
+  }
+  .lower-canvas {
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%);
+    background-color: white;
+  }
+}

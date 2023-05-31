@@ -1,0 +1,28 @@
+{
+  "name": "stackblitz-starters-2gfwwp",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@popperjs/core": "^2.11.7",
+    "@types/react": "18.2.7",
+    "@types/react-dom": "18.2.4",
+    "bootstrap": "^5.3.0",
+    "fabric": "^5.3.0",
+    "formik": "^2.4.0",
+    "lodash": "^4.17.21",
+    "react": "18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.9.0",
+    "yup": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
